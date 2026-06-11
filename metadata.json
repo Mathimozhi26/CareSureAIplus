@@ -1,0 +1,6 @@
+{
+  "name": "CareSure AI+",
+  "description": "Premium AI-powered healthcare & personal-care ingredient intelligence platform to verify medicines and skincare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
