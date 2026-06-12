@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Niacinamide 10%",
+    "function": "Barrier Support & Sebum Regulation",
+    "benefits": "Deeply strengthens lipid barrier, speeds up cellular turn-over, balances overactive sebum production, and brightens residual acne spot pigmentation.",
+    "sideEffects": "Very safe; extremely high doses may trigger temporary skin flushes.",
+    "riskLevel": "Safe",
+    "scientificDescription": "Niacinamide (Vitamin B3) is a water-soluble co-enzyme precursor. It actively triggers synthesis of ceramides and keratin to lock moisture.",
+    "comedogenicRating": 0,
+    "pregnancySafetyStatus": "Safe"
+  },
+  {
+    "name": "Salicylic Acid 2%",
+    "function": "Beta-Hydroxy Acid (BHA) Pore Exfoliant",
+    "benefits": "Dissolves cellular cohesion inside the pores, breaks oil glands down, prevents cystic acne lesions, and clarifies active pustules.",
+    "sideEffects": "Mild localized peeling, drying, or irritation if used alongside drying alcohol vehicles.",
+    "riskLevel": "Moderate",
+    "scientificDescription": "Salicylic Acid is a highly lipophilic clinical BHA that penetrates deep straight into human lipid pores.",
+    "comedogenicRating": 0,
+    "pregnancySafetyStatus": "Avoid"
+  },
+  {
+    "name": "Ketoconazole 2%",
+    "function": "Antifungal Clinical Active",
+    "benefits": "Inhibits fungal cell ergosterol synthesis, rapidly resolving Malassezia scalps, reducing oily dandruff flakes, and calming itch.",
+    "sideEffects": "Mild burning scaling sensation or local hair structural change.",
+    "riskLevel": "Moderate",
+    "scientificDescription": "Ketoconazole is a synthetic imidazole compound utilized to stop dermatophyte fungal cells from replicating.",
+    "comedogenicRating": 0,
+    "pregnancySafetyStatus": "Consult Doctor"
+  },
+  {
+    "name": "Centella Asiatica Extract",
+    "function": "Cica Soother & Collagen Stimulator",
+    "benefits": "Soothes irritated redness immediately, speeds up small cuts and burns repairs, and triggers type-I skin collagen synthesis panels.",
+    "sideEffects": "No known toxic reactions.",
+    "riskLevel": "Safe",
+    "scientificDescription": "Known throughout Asia as Gotu Kola or Cica. Formulated with key active asiaticoside triggers that soothe raw wounds.",
+    "comedogenicRating": 0,
+    "pregnancySafetyStatus": "Safe"
+  },
+  {
+    "name": "Retinol",
+    "function": "Cell-Turnover Retinoid Active",
+    "benefits": "Speeds up cell turnover cycles, forces collagen matrix synthesis, reduces deep wrinkles, and resolves comedogenic acne blockages.",
+    "sideEffects": "Triggers local retinization, peeling, redness, and extreme sun sensitivity.",
+    "riskLevel": "High Risk",
+    "scientificDescription": "A Vitamin A derivative that is heavily restricted in fetal/pregnancy setups due to cell-division interference profiles.",
+    "comedogenicRating": 1,
+    "pregnancySafetyStatus": "Avoid"
+  }
+]
