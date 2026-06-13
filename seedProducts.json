@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Dynamic Hydrating Cleanser",
+    "brand": "PureHeal Glow",
+    "category": "Skincare",
+    "ingredients": "Aqua, Glycerin, Niacinamide 10%, Centella Asiatica Extract, Sodium Hyaluronate",
+    "benefits": "Deeply hydrates skin structure, cleanses sebum, and reinforces dermal barrier shields using natural hydrating extracts.",
+    "warnings": "Avoid getting directly into eyes. Mild tingling can happen for sensitive skin types.",
+    "safetyScore": 95,
+    "imageUrl": "",
+    "suitabilityTags": "Dry Skin, Sensitive Skin, Oily Skin"
+  },
+  {
+    "name": "Acne Relief Spot Gel",
+    "brand": "Anti-Acne Spot Cream",
+    "category": "Skincare",
+    "ingredients": "Aqua, Salicylic Acid 2%, Glycerin, Centella Asiatica Extract, Phenoxyethanol",
+    "benefits": "Dries active papules, clears pore blockages, and limits acne breakouts overnight.",
+    "warnings": "Avoid during pregnancy. Wear sunblock during daytime. Mild flaking is expected.",
+    "safetyScore": 82,
+    "imageUrl": "",
+    "suitabilityTags": "Acne-prone, Oily Skin"
+  },
+  {
+    "name": "Therapy Dandruff Shampoo",
+    "brand": "Therapy Dandruff Wash",
+    "category": "Haircare",
+    "ingredients": "Aqua, Ketoconazole 2%, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine",
+    "benefits": "Cleanses fungal scalp scale, stops active itch, and limits dandruff recurrence.",
+    "warnings": "Do not swallow. Keep out of reach of infants. Use up to 3 times weekly maximum.",
+    "safetyScore": 78,
+    "imageUrl": "",
+    "suitabilityTags": "Scalp Malassezia, Dandruff Only"
+  },
+  {
+    "name": "Pure Calm Gel-Cream",
+    "brand": "Ultra Cica Calm-Gel",
+    "category": "Skincare",
+    "ingredients": "Aqua, Centella Asiatica Extract, Niacinamide 10%, Glycerin, Hyaluronic Acid",
+    "benefits": "Reduces active redness, hydrates, and repairs compromised skin layers.",
+    "warnings": "None. Extremely safe for raw damaged barriers.",
+    "safetyScore": 98,
+    "imageUrl": "",
+    "suitabilityTags": "Sensitive Skin, Rosacea, Laser Post-Care"
+  }
+]

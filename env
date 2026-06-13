@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/caresure
+JWT_SECRET=CaresureClinicalSecuritySecretKey2026
+GEMINI_API_KEY=AIzaSyAGoTFhIKCLuXe_QOw98g736Vfwvwq8JbM
